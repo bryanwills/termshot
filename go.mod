@@ -10,7 +10,7 @@ require (
 	github.com/gonvenience/bunt v1.4.3
 	github.com/gonvenience/neat v1.3.20
 	github.com/gonvenience/term v1.0.5
-	github.com/gonvenience/wrap v1.2.0
+	github.com/gonvenience/wrap v1.2.3
 	github.com/mattn/go-isatty v0.0.22
 	github.com/onsi/ginkgo/v2 v2.28.1
 	github.com/onsi/gomega v1.39.1

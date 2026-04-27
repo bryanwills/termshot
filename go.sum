@@ -29,8 +29,8 @@ github.com/gonvenience/neat v1.3.20 h1:KdevSy5GLb3h1U5AYGw3NwW9FAAU2MWfrtsDHzYaK
 github.com/gonvenience/neat v1.3.20/go.mod h1:GbVes855L3QYFkDg9pnxHe/FQVsr1Tl+ME0fyOZO4Lg=
 github.com/gonvenience/term v1.0.5 h1:PYfBH7FB1V+tuuJl4KYrqG/tzAOUnvTy8IFa9YqYrJY=
 github.com/gonvenience/term v1.0.5/go.mod h1:CYvcU7H3nE6eOP0gvGfYz4BjGJzM1GeNp+fx4IBWKLs=
-github.com/gonvenience/wrap v1.2.0 h1:CwAoa60QIBVmQn/aUregAbk9FstEr17k9vCYpKF972c=
-github.com/gonvenience/wrap v1.2.0/go.mod h1:iNijaTmFD8+ORmNp9iS+dSBcCJrmIwwyoYLUngToGdk=
+github.com/gonvenience/wrap v1.2.3 h1:8Beeb4aBy7EoYaQ8JW03YwR7TTUUBDnrXoecVbLfXK8=
+github.com/gonvenience/wrap v1.2.3/go.mod h1:XWcAWQ6RtwEbwow0HWEp9fvjG3gGrGxvKi9YwfmCKaM=
 github.com/google/go-cmp v0.7.0 h1:wk8382ETsv4JYUZwIsn6YpYiWiBsYLSJiTsyBybVuN8=
 github.com/google/go-cmp v0.7.0/go.mod h1:pXiqmnSA92OHEEa9HXL2W4E7lf9JzCmGVUdgjX3N/iU=
 github.com/google/pprof v0.0.0-20260202012954-cb029daf43ef h1:xpF9fUHpoIrrjX24DURVKiwHcFpw19ndIs+FwTSMbno=
