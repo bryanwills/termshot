@@ -13,7 +13,7 @@ require (
 	github.com/gonvenience/wrap v1.2.3
 	github.com/mattn/go-isatty v0.0.22
 	github.com/onsi/ginkgo/v2 v2.28.2
-	github.com/onsi/gomega v1.39.1
+	github.com/onsi/gomega v1.40.0
 	github.com/spf13/cobra v1.8.1
 	golang.org/x/image v0.39.0
 	golang.org/x/term v0.42.0
