@@ -8,11 +8,11 @@ require (
 	github.com/fogleman/gg v1.3.0
 	github.com/golang/freetype v0.0.0-20170609003504-e2365dfdc4a0
 	github.com/gonvenience/bunt v1.4.3
-	github.com/gonvenience/neat v1.3.20
+	github.com/gonvenience/neat v1.4.0
 	github.com/gonvenience/term v1.0.5
 	github.com/gonvenience/wrap v1.2.3
 	github.com/mattn/go-isatty v0.0.24
-	github.com/onsi/ginkgo/v2 v2.33.0
+	github.com/onsi/ginkgo/v2 v2.33.1
 	github.com/onsi/gomega v1.44.0
 	github.com/spf13/cobra v1.10.2
 	golang.org/x/image v0.47.0
